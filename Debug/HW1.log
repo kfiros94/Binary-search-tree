@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\kfiro\Desktop\מבני נתונים\Data Structures\HW1\HW1\main.c(34,20): warning C4047: 'function': 'PTree' differs in levels of indirection from 'PTree *'
+C:\Users\kfiro\Desktop\מבני נתונים\Data Structures\HW1\HW1\main.c(34,20): warning C4024: 'add_node': different types for formal and actual parameter 1
+  HW1.vcxproj -> C:\Users\kfiro\Desktop\מבני נתונים\Data Structures\HW1\Debug\HW1.exe
